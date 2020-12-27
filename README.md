@@ -49,4 +49,5 @@
 * [jerrykuku/luci-app-jd-dailybonus](https://github.com/jerrykuku/luci-app-jd-dailybonus)
 
 
-f -10/28
+fxpass -12/27
+
